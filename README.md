@@ -1,1 +1,2 @@
 # Arduino-piano
+Koristeći online programom Tinkercad osmislio sam izgled piana, izradio shemu te napisao kôd za arduino. Kasnije sam pohranio kôd na arduino nano te spojio komponente kao na shmemi i napravio piano od drva. Izrada piana nije predstavljala problem pošto imam stolarsku radionu. Projekt nije u potpunosti dovršen, potrebno je prelakirati piano te postaviti elektroničke komponente unutar piana. Nadam se da ću završiti pojekt nakon završetka fakulteta.
